@@ -1,0 +1,2 @@
+{"max_depth": 14, "min_child_weight": 5.570202312423497, "gamma": 0.3361659306477577, "reg_alpha": 0.21497719317793818, "reg_lambda": 1.2956713656302243, "max_delta_step": 5, "Value": 3.2473658373906984}
+{"max_depth": 5, "min_child_weight": 7.010860761871518, "gamma": 0.6223535308639555, "reg_alpha": 0.5500384393333321, "reg_lambda": 2.5166886756050526, "max_delta_step": 5, "Value": 3.086303349810564}

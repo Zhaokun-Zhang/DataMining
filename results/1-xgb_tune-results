@@ -1,0 +1,4 @@
+{"max_depth": 14, "min_child_weight": 7.727140868826891, "gamma": 0.46939866318852064, "reg_alpha": 0.8902719716195927, "reg_lambda": 7.247184901365951, "max_delta_step": 1, "Value": 0.5675151633397698}
+{"max_depth": 10, "min_child_weight": 3.769127412598281, "gamma": 0.35437615472375406, "reg_alpha": 0.8064532393763749, "reg_lambda": 7.616038318851373, "max_delta_step": 1, "Value": 0.5857217300677436}
+{"max_depth": 9, "min_child_weight": 1.9654044609937922, "gamma": 0.1855366163964684, "reg_alpha": 0.5567129182562452, "reg_lambda": 4.835607241088689, "max_delta_step": 1, "Value": 0.5942327497425335}
+{"max_depth": 11, "min_child_weight": 4.098961526327146, "gamma": 0.4114993948186305, "reg_alpha": 4.1218299912039855, "reg_lambda": 8.743717831631578, "max_delta_step": 1, "Value": 0.598343685300207}
