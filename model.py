@@ -6,6 +6,7 @@ from CART import CART
 
 from time import time
 from sklearn.metrics import f1_score, mean_squared_error
+from sklearn.metrics import accuracy_score, precision_score, recall_score
 import pandas as pd
 import numpy as np
 
@@ -96,6 +97,18 @@ class Model:
         else:
             metric = np.sqrt(mean_squared_error(y, pred))
         return metric, self.training_time, self.inference_time
+    def test_all(self, X, y):
+        pred = self.predict(X)
+        if self.task_type[0] == 'c':
+            acc = accuracy_score(pred, y)
+            pre = precision_score(pred, y)
+            rec = recall_score(pred, y)
+            f1 = f1_score(y, pred)
+            metrics = [acc, pre, rec, f1]
+        else:
+            mse = np.sqrt(mean_squared_error(y, pred))
+            metrics = [mse]
+        return metrics
 
 def load_data(dataID):
     traindf = pd.read_csv(f'data/{dataID}/train.csv', header=None)

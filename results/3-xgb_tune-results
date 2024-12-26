@@ -1,2 +1,3 @@
 {"max_depth": 1, "min_child_weight": 5.557315479779074, "gamma": 0.6959349480193372, "reg_alpha": 0.16431944002405252, "reg_lambda": 7.174622074835934, "max_delta_step": 2, "Value": 0.5774269005847954}
 {"max_depth": 11, "min_child_weight": 5.070512401406528, "gamma": 1.0615676971843162, "reg_alpha": 0.49956315010333596, "reg_lambda": 1.4740109894532152, "max_delta_step": 10, "Value": 0.6671704903283849}
+{"max_depth": 10, "min_child_weight": 3.0524736315680987, "gamma": 0.5450931814733107, "reg_alpha": 2.757010799476104, "reg_lambda": 9.347648139593792, "max_delta_step": 1, "Value": 0.6344081924267683}

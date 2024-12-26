@@ -1,0 +1,12 @@
+,lightgbm
+num_leaves,17
+max_depth,62
+min_data_in_leaf,7
+min_sum_hessian_in_leaf,0.0013958971475749443
+scale_pos_weight,6.985671714503446
+lambda_l1,0.8678487040460225
+lambda_l2,0.004374947659515746
+min_gain_to_split,0.00029597558841474604
+metric,f1-score
+bagging_fraction,0.8741821647822092
+feature_fraction,0.9295851105890941

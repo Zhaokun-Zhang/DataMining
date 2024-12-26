@@ -1,0 +1,8 @@
+,mlp
+hidden_layer_num,2
+hidden_layer_dim,128
+learning_rate_init,0.00847640525056384
+alpha,0.00011834578013232665
+max_iter,362
+early_stopping,True
+validation_fraction,0.24523428423026775

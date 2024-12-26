@@ -1,0 +1,6 @@
+,lightgbm
+num_leaves,13.0
+max_depth,12.0
+min_child_samples,2.0
+reg_alpha,3.692329374374174
+reg_lambda,0.4171456215477112

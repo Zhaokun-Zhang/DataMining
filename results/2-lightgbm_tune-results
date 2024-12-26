@@ -1,3 +1,4 @@
 {"num_leaves": 25, "max_depth": 13, "min_child_samples": 10, "reg_alpha": 0.3740501857853191, "reg_lambda": 1.2840227989768849, "Value": 3.289637415014505}
 {"num_leaves": 46, "max_depth": 13, "min_child_samples": 8, "reg_alpha": 0.328729862736416, "reg_lambda": 7.544978364988866, "Value": 3.3145945311360725}
 {"num_leaves": 13, "max_depth": 12, "min_child_samples": 2, "reg_alpha": 3.692329374374174, "reg_lambda": 0.4171456215477112, "Value": 2.984254123870802}
+{"num_leaves": 8, "max_depth": 96, "min_data_in_leaf": 5, "min_sum_hessian_in_leaf": 0.00035499723061103354, "scale_pos_weight": 1.005741568635501, "lambda_l1": 0.6305342946234846, "lambda_l2": 0.016442911906933647, "min_gain_to_split": 0.2258635800665444, "metric": "f1-score", "bagging_fraction": 0.9890829810846433, "feature_fraction": 0.9270319487579686, "Value": 3.015357848750418}

@@ -1,0 +1,4 @@
+,mlp
+hidden_layer_num,4.0
+hidden_layer_dim,128.0
+learning_rate_init,0.009157986609534322

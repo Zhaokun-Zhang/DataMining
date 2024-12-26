@@ -2,4 +2,4 @@
 __pycache__
 template
 data
-nohup.out
+*.out

@@ -1,0 +1,7 @@
+,xgb
+max_depth,11.0
+min_child_weight,5.070512401406528
+gamma,1.0615676971843162
+reg_alpha,0.49956315010333596
+reg_lambda,1.4740109894532152
+max_delta_step,10.0
