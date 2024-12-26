@@ -100,9 +100,9 @@ class Model:
     def test_all(self, X, y):
         pred = self.predict(X)
         if self.task_type[0] == 'c':
-            acc = accuracy_score(pred, y)
-            pre = precision_score(pred, y)
-            rec = recall_score(pred, y)
+            acc = accuracy_score(y, pred)
+            pre = precision_score(y, pred)
+            rec = recall_score(y, pred)
             f1 = f1_score(y, pred)
             metrics = [acc, pre, rec, f1]
         else:
